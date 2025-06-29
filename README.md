@@ -1,5 +1,5 @@
 - 👋 Hi, I’m RAGHAV(@raghavpli515)
-- 👀 I’m interested in Computer Vision/ AI-ML domain
+- 👀 I’m interested in Computer Vision(Visual Computing)/ AI-ML domain
 - 🌱 I’m currently pursuing Masters' in AI-ML from IIIT Lucknow 
 - 💞️ I’m looking to collaborate on various computer vision /GenAI projects 
 - 📫 How to reach me : raghavpimoli73@gmail.com...
